@@ -1,7 +1,12 @@
 <?php
+include("includes/head.php");
 
-// Creates a php Object
-$obj = new foo;
 
-// Also creates a php Object
-$obj = new foo();
+
+// User::Signup($firstname,"Sayed","email","01158999135","1010abab",0,"Egypt",0);
+
+
+
+
+
+?>
